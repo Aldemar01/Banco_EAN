@@ -1,3 +1,5 @@
+BANCO DE LA UNIVERSIDAD EAN
+
 En este repositorio encontraras el proyecto final en este caso un banco de la universidad EAN utilizando diversos metodos de PYTHON, como tambien condiciones y listas.
 
 Tiene funciones como inciar sesion con usuarios previamente registrados, recuperar contraseña hacer retiros consignaciones y transferencias com una funcion de administridaro que que te permite agregar cuentas, eliminarlas y configurar algunos datos como los intereses y ver todos los usuarios registrados.
