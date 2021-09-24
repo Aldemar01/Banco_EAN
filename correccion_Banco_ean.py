@@ -6,7 +6,7 @@ account_tipo=  [ 'corriente', 'ahorros' ]
 dinero=[ 100 , 3000 ]
 correo= ['aldemar@gmail.com'  , 'brayan@gmail.com']   
 account=    ['cerrada' , 'cerrada' ] 
-#EL USUARIO DE ADMINISTRADOR ES: ADMIN---COSNTRSEÑA:1234
+#EL USUARIO DE ADMINISTRADOR ES:admin---CONTRASEÑA:12345
 
 while(True): 
     sesion = False
